@@ -1,1 +1,2 @@
-Proyecto de prueba de creacion de repositorio
+Proyecto de prueba de creacion de repositorio 
+oscar julio acosta gonzalez
